@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Renanzineo69
+- 👀 I’m interested in programming, but I don't know how
+- 🌱 I’m currently learning Python, or trying to
+- 💞️ I’m looking to collaborate on anything that I can
+- 📫 How to reach me renanbcunha2002@gmail.com
