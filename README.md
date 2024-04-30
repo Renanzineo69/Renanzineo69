@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Renanzineo69
-- 👀 I’m interested in programming, but I don't know how
-- 🌱 I’m currently learning Python, or trying to
-- 💞️ I’m looking to collaborate on anything that I can
+- 👋 Hello there, my name is Renan
+- 👀 I’m interested in programming random stuff that nobody will use
+- 🌱 I’m currently learning Python, JavaScript, HTML and CSS
 - 📫 How to reach me renanbcunha2002@gmail.com
