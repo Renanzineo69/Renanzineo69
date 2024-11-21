@@ -11,9 +11,13 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-cunha-/)
 
-# 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Renanzineo69&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renanzineo69&layout=compact&theme=dark)
-
+## 📈 Estatísticas do GitHub
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=GabrielAlbanez&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielAlbanez&theme=radical" alt="Sequência de Contribuições" height="150">
+</div>
+ 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielAlbanez&theme=github" alt="Gráfico de Atividade">
+</div>
 
