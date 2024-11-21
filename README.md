@@ -11,20 +11,17 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-cunha-/)
 
----
-
-## 📊 Estatísticas do GitHub
+# 📊 Estatísticas do GitHub
 
 <table>
   <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Renanzineo69&show_icons=true&theme=dark" alt="GitHub Stats" width="100%">
+    <td valign="top" width="50%" style="min-width: 300px; text-align: center; vertical-align: top;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Renanzineo69&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 100%; max-width: 400px;">
     </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanzineo69&layout=compact&theme=dark" alt="Top Langs" width="100%">
+    <td valign="top" width="50%" style="min-width: 300px; text-align: center; vertical-align: top;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanzineo69&layout=compact&theme=dark" alt="Top Langs" style="width: 100%; max-width: 400px;">
     </td>
   </tr>
 </table>
 
----
 
