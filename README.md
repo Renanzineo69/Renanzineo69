@@ -10,3 +10,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Renanzineo69&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renanzineo69&layout=compact&theme=dark)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+
