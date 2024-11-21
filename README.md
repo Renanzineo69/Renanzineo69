@@ -27,7 +27,7 @@ If you want to collaborate, ask questions, or just say hi, feel free to reach ou
 </p>
 
 
-## 📈 Estatísticas do GitHub
+<h2 align="center">📈 Estatísticas do GitHub</h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Renanzineo69&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renanzineo69&theme=radical" alt="Sequência de Contribuições" height="150">
