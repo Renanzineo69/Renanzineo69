@@ -13,16 +13,7 @@
 
 # 📊 Estatísticas do GitHub
 
-<table>
-  <tr>
-    <td valign="top" style="width: 420px; height: 200px; text-align: center; vertical-align: top;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Renanzineo69&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 100%; height: 100%;">
-    </td>
-    <td valign="top" style="width: 100px; height: 200px; text-align: center; vertical-align: top;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanzineo69&layout=compact&theme=dark" alt="Top Langs" style="width: 100%; height: 100%;">
-    </td>
-  </tr>
-</table>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Renanzineo69&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renanzineo69&layout=compact&theme=dark)
 
 
