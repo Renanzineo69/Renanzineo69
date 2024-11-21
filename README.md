@@ -3,9 +3,9 @@
 - 🌱 Currently diving deep into Python, JavaScript, HTML, and CSS to expand my skills and creativity.
 - 🎯 Always exploring new tools and technologies to challenge myself and grow.
 
-### 📬 **Let's Connect**  
-If you want to collaborate, ask questions, or just say hi, feel free to reach out:  
-📧 **Email**: [renanbcunha2002@gmail.com](mailto:renanbcunha2002@gmail.com)  
+## 📞 Lets connect!
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanbcunha2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-cunha-)
 
 ### 🌟 **Fun Facts About Me**
 - 🧩 I enjoy solving puzzles and breaking down complex problems into elegant solutions.  
@@ -25,10 +25,6 @@ If you want to collaborate, ask questions, or just say hi, feel free to reach ou
   </a>
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  
-  <a href="https://www.linkedin.com/in/renan-cunha-/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
 </p>
 
 
