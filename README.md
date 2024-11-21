@@ -4,6 +4,7 @@
 - 🎯 Always exploring new tools and technologies to challenge myself and grow.
 
 <h2 align="center">📞 Lets connect!</h2>
+
   <a href="mailto:renanbcunha2002@gmail.com"
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
