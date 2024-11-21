@@ -3,7 +3,7 @@
 - 🌱 Currently diving deep into Python, JavaScript, HTML, and CSS to expand my skills and creativity.
 - 🎯 Always exploring new tools and technologies to challenge myself and grow.
 
-## 📞 Lets connect!
+<h2 align="center">📞 Lets connect!</h2>
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanbcunha2002@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-cunha-)
 
