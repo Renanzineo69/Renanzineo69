@@ -13,11 +13,11 @@
 
 ## 📈 Estatísticas do GitHub
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GabrielAlbanez&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielAlbanez&theme=radical" alt="Sequência de Contribuições" height="150">
+<img src="https://github-readme-stats.vercel.app/api?username=Renanzineo69&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Renanzineo69&theme=radical" alt="Sequência de Contribuições" height="150">
 </div>
  
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielAlbanez&theme=github" alt="Gráfico de Atividade">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Renanzineo69&theme=github" alt="Gráfico de Atividade">
 </div>
 
