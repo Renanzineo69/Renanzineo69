@@ -19,8 +19,11 @@ If you want to collaborate, ask questions, or just say hi, feel free to reach ou
   <a href="https://github.com/Renanzineo69/Catarina">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </a>
-  
+
+  <a href="https://github.com/Renanzineo69/SpotifyWebApp">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  </a>
+  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   
   <a href="https://www.linkedin.com/in/renan-cunha-/">
