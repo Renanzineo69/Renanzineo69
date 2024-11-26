@@ -1,4 +1,4 @@
-# 👋 Hello there, my name is Renan [![Mimikyu](https://img.pokemondb.net/sprites/sword-shield/normal/mimikyu.png)]
+# 👋 Hello there, my name is Renan ![Mimikyu](https://img.pokemondb.net/sprites/sword-shield/normal/mimikyu.png)
 - 👀 Curiosity-driven developer passionate about crafting innovative projects (even the ones nobody asked for!).
 - 🌱 Currently diving deep into Python, JavaScript, HTML, and CSS to expand my skills and creativity.
 - 🎯 Always exploring new tools and technologies to challenge myself and grow.
