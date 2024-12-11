@@ -46,7 +46,7 @@
 <h2 align="center">📈 Estatísticas do GitHub</h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Renanzineo69&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150">
-<img src="https://github-contribution-stats.vercel.app/api/?username=Renanzineo69" alt="Sequência de Contribuições" height="150">
+<img src="https://metrics.lecoq.io/Renanzineo69" alt="Sequência de Contribuições" height="150">
 </div>
  
 <div align="center">
